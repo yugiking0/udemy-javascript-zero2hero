@@ -1,0 +1,101 @@
+Cần học lại:
+- Operators
+- while loop
+- array.property
+- object.property
+
+* Hot key
+- ctrl + L : clear Terminal
+- ctrl + C: kill Terminal(when running terminal)
+- F2 rename tag and close tag html
+
+- shift + ctrl + K: delete row line
+- altr + Up/Down arrow: move row line up/down
+- shift + Altr + Up/Down arrow: Duplicate row line, copy row line
+
+* Run LiveServer:
+live-server --port=8989 --browser=chrome
+- port: gan port de chay
+- browser: trinh duyet su dung
+
+
+Hltm:
+- Bao gom:
+<html>
+	<head>
+		<title> Tieu de trang</title>
+	</head>
+	<body>
+		<h1>Tieu de 1</h1>
+		<p>Noi dung trang</p>
+	</body>
+</html>
+
+- insert link: in body page 
+<a href="https://tuoitre.vn/">TuoiTre Online</a> : href: hypertext reference
+
+- insert image: don't need close tag
+<image scr = "link image" />: not have a tag </image>
+
+- Textbox 
+<input type="kind type..." placeholder="Your name here" /> : not have a tag </input>
+	* type: text, checkbox, button,...
+	* placeholder: Describe content textbox input
+	* don't need close tag </input>
+	
+- Button
+<button>OK!</button>
+	
+- Add extreme file .css:
+ <link href="style.css" rel="stylesheet" />
+ 
+- Add extreme file Javascript
+
+- Add class
+<p class="second">Just another paragraph</p>
+
+- Add ID
+<form id="your-name">
+</form>
+
+<div id="ID-Name01">
+</div>
+
+- Style CSS
+* Main style:
+body, h1, h2
+body {
+
+}
+
+* Class: need dot(.) before class name
+.first {
+
+}
+
+.first {
+
+}
+
+* IDS: need hash(#) before IDname
+#ID-Name01 {
+}
+
+#your-name {
+}
+
+Learn more HLTM & CSS
+-> get more documents
+tag
+css
+margin
+padding
+input
+button
+border
+...
+
+
+DOM: Document Objects Model
+Practice Assignments for JavaScript Fundamentals sections
+
